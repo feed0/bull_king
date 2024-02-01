@@ -1,4 +1,4 @@
-import 'package:bull_king/features/shop/screens/home.dart';
+import 'package:bull_king/features/shop/screens/home/home.dart';
 import 'package:bull_king/utils/constants/colors.dart';
 import 'package:bull_king/utils/helpers/helper_functions.dart';
 import 'package:flutter/material.dart';
